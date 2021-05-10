@@ -1,7 +1,5 @@
 # This program converts Celsius temperatures to Fahrenheit
 
-print('This program was written by Katie Diamond who is in your MW 6pm SDEV140 class.')
-
 import tkinter
 import tkinter.messagebox
 
